@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.exe
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.deps.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\bin\Debug\netcoreapp3.1\AndExercises.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.dll
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.pdb
+C:\Users\opilane\source\repos\LOGITpe21\Week3Exercises\AndExercises\obj\Debug\netcoreapp3.1\AndExercises.genruntimeconfig.cache
